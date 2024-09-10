@@ -12,7 +12,7 @@ numbers = [i for i in range(101) if i % 2 == 0 and i % 3 ==0]
 print(numbers)
 
 
-2. Фильтр.
+# 2. Фильтр.
 
 items = [1.2, 3, None, 100, {'info': 'bla-bla'}, 44, 'Hi!', 99, 44.32, None]
 # Решение при помощи list comprehension
