@@ -48,3 +48,12 @@
 #         new_list.append(i)
 # print(sorted(new_list))
 
+## Дополнительное задание.
+
+# 1. Магазин.
+products = {"apple": {"quantity": 10, "price": 100},
+             "banana": {"quantity": 20, "price": 50},
+             "orange": {"quantity": 15, "price": 80},
+             "grape": {"quantity": 8, "price": 120},
+             "milk": {"quantity": 12, "price": 90},
+             "bread": {"quantity": 30, "price": 40}}
