@@ -69,3 +69,15 @@ total_price = 0
 for data in products.values():
     total_price += data["quantity"] * data["price"]
 print(total_price)
+
+
+d=[1, 6, 9]
+
+def a(d):
+    for i in range(d[0], d[-1]+1):
+        if not i in d:
+            d.append(i)
+            d.sort()
+    return d
+
+print(a(d))
