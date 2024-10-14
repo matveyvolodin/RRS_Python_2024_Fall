@@ -1,3 +1,6 @@
+"""Классы, ООП"""
+
+
 # 1. Прямоугольник.
 class Rectangle:
     def __init__(self, width, height):
