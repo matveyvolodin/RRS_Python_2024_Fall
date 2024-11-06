@@ -1,5 +1,5 @@
-from RRS_Python_2024_Fall.Python_project.lesson1_hw.api_tests.case.data.case import create_case_dict, updated_data
-from RRS_Python_2024_Fall.Python_project.lesson1_hw.api_tests.utils.api_client import client
+from Python_project.lesson1_hw.api_tests.case.data.case import create_case_dict, updated_data
+from Python_project.lesson1_hw.api_tests.utils.api_client import client
 
 
 def test_get_reed_root():

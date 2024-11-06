@@ -1,3 +1,4 @@
+# API тестирование. requests
 ### Домашнее задание к 1 занятию:
 1. Запустить приложение из первого занятия (RRS_Python_2024_Fall/Python_project/lesson1_hw/app) локально
 ```commandline
