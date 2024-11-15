@@ -1,4 +1,4 @@
-## Введение в Selenium, фикстуры driver/login по API
+## Введение в Selenium, фикстуры driver (webdriver.Chrome()) / login по API
 
 ## Полезное 
 

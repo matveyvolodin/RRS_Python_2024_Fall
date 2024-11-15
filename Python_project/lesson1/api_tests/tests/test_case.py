@@ -1,6 +1,6 @@
-from Python_project.lesson1_hw.api_tests.case.pom.case import create_case
-from Python_project.lesson1_hw.api_tests.case.models.case import Case
-from Python_project.lesson1_hw.api_tests.case.data.case import create_case_dict
+from Python_project_studies.lesson1_hw.api_tests.case.pom.case import create_case
+from Python_project_studies.lesson1_hw.api_tests.case.models.case import Case
+from Python_project_studies.lesson1_hw.api_tests.case.data.case import create_case_dict
 
 
 def test_create_case():
