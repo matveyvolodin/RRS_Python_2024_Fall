@@ -1,6 +1,6 @@
 from playwright.sync_api import Page, expect
-from Python_project.lesson5.core.data import base_url
-import allure 
+from lesson5.core.data import base_url
+import allure
 
 class Register:
     def __init__(self, page: Page):
@@ -30,5 +30,3 @@ class Register:
     @allure.step("Нажимаем на кнопку регистрации")
     def click_on_registration_button(self):
         self.page.get_by_test_id("submit-button").click()
-
-    
